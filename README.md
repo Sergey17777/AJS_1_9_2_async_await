@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3ke7hoa8w9k0flyn/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-9-2-async-await/branch/master)
+
 
 # Домашнее задание к лекции «Promises, async/await»
 
